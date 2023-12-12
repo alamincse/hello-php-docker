@@ -1,6 +1,9 @@
 ### Instruction
+### Install Docker
 
-#### Clone this repo on your machine!
+First install docker in your machine [Docker Install](https://docs.docker.com/engine/install/)
+
+### Clone this repo on your machine!
 ```
 https://github.com/alamincse/hello-php-docker.git
 ```
