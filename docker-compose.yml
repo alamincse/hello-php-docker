@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  hello_app:
+    container_name: hello-app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/var/www/html
+    ports:
+      - "8030:8030"
