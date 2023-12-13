@@ -13,6 +13,6 @@
 		$x = 10;
 		$y = 5;
 	?>
-	<h3><?php echo $x * $y; ?></h3>
+	<h3>Result: <?php echo $x * $y; ?></h3>
 </body>
 </html>
